@@ -70,7 +70,8 @@
 
 
 ```
-$ pkg upgrade && pkg update
+$ pkg upgrade && pkg updauuu
+
 $ pkg install nodejs && pkg install git
 ```
 
